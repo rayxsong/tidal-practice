@@ -1,0 +1,5 @@
+d1 $ sound "bd" # crush 2
+
+d2 $ sound "arpy" # crush 2
+   
+hush
